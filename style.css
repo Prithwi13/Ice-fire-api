@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Nunito",sans-serif;
+  background: #a11b1b;
+}
+
+.card p{
+  text-align: center;
+  margin:40px 0;
+  font-size:20px;
+  
+}
